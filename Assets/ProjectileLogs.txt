@@ -1,0 +1,1749 @@
+Displacement: (0.77, -0.76, -2.89)
+Horizontal Distance: 2.990336, Vertical Distance: -0.7579697
+Speed Squared: 100
+Discriminant: 9831.447
+Sqrt Discriminant: 99.15366
+Angle 1: 74.87579 degrees, Angle 2: 0.9008266 degrees
+Chosen Angle: 0.9008266 degrees
+Initial Velocity: (2.58, 0.16, -9.66)
+target position: (0.77, 0.01, 18.83)
+Displacement: (0.76, -0.76, -2.71)
+Horizontal Distance: 2.813253, Vertical Distance: -0.7562891
+Speed Squared: 100
+Discriminant: 10158.38
+Sqrt Discriminant: 100.7888
+Angle 1: 75.84528 degrees, Angle 2: -0.8924055 degrees
+Chosen Angle: -0.8924055 degrees
+Initial Velocity: (2.68, -0.16, -9.63)
+target position: (0.75, 0.01, 19.00)
+Displacement: (0.73, -0.75, -2.47)
+Horizontal Distance: 2.580432, Vertical Distance: -0.7540739
+Speed Squared: 100
+Discriminant: 10557.27
+Sqrt Discriminant: 102.7486
+Angle 1: 77.09674 degrees, Angle 2: -3.38657 degrees
+Chosen Angle: -3.38657 degrees
+Initial Velocity: (2.84, -0.59, -9.57)
+target position: (0.73, 0.02, 19.24)
+Displacement: (0.72, -0.75, -2.31)
+Horizontal Distance: 2.415051, Vertical Distance: -0.7524953
+Speed Squared: 100
+Discriminant: 10819.26
+Sqrt Discriminant: 104.0157
+Angle 1: 77.9715 degrees, Angle 2: -5.277788 degrees
+Chosen Angle: -5.277788 degrees
+Initial Velocity: (2.97, -0.92, -9.51)
+target position: (0.72, 0.02, 19.41)
+Displacement: (0.71, -0.75, -2.19)
+Horizontal Distance: 2.304754, Vertical Distance: -0.7514408
+Speed Squared: 100
+Discriminant: 10984.13
+Sqrt Discriminant: 104.8052
+Angle 1: 78.54904 degrees, Angle 2: -6.607056 degrees
+Chosen Angle: -6.607056 degrees
+Initial Velocity: (3.06, -1.15, -9.45)
+target position: (0.71, 0.02, 19.52)
+Displacement: (0.69, -0.75, -2.03)
+Horizontal Distance: 2.147896, Vertical Distance: -0.7485206
+Speed Squared: 100
+Discriminant: 11199.91
+Sqrt Discriminant: 105.8296
+Angle 1: 79.36177 degrees, Angle 2: -8.574711 degrees
+Chosen Angle: -8.574711 degrees
+Initial Velocity: (3.20, -1.49, -9.36)
+target position: (0.69, 0.02, 19.68)
+Displacement: (0.68, -0.74, -1.83)
+Horizontal Distance: 1.950258, Vertical Distance: -0.7447088
+Speed Squared: 100
+Discriminant: 11448.62
+Sqrt Discriminant: 106.9982
+Angle 1: 80.37484 degrees, Angle 2: -11.27427 degrees
+Chosen Angle: -11.27427 degrees
+Initial Velocity: (3.40, -1.96, -9.20)
+target position: (0.68, 0.02, 19.89)
+Displacement: (0.65, -0.74, -1.81)
+Horizontal Distance: 1.928715, Vertical Distance: -0.744433
+Speed Squared: 100
+Discriminant: 11474.7
+Sqrt Discriminant: 107.12
+Angle 1: 80.4847 degrees, Angle 2: -11.58997 degrees
+Chosen Angle: -11.58997 degrees
+Initial Velocity: (3.32, -2.01, -9.22)
+target position: (0.65, 0.03, 19.90)
+Displacement: (0.65, -0.74, -1.80)
+Horizontal Distance: 1.916136, Vertical Distance: -0.7441912
+Speed Squared: 100
+Discriminant: 11489.5
+Sqrt Discriminant: 107.1891
+Angle 1: 80.54873 degrees, Angle 2: -11.77396 degrees
+Chosen Angle: -11.77396 degrees
+Initial Velocity: (3.33, -2.04, -9.20)
+target position: (0.65, 0.03, 19.91)
+Displacement: (0.65, -0.74, -1.79)
+Horizontal Distance: 1.905038, Vertical Distance: -0.743978
+Speed Squared: 100
+Discriminant: 11502.47
+Sqrt Discriminant: 107.2496
+Angle 1: 80.60518 degrees, Angle 2: -11.93741 degrees
+Chosen Angle: -11.93741 degrees
+Initial Velocity: (3.35, -2.07, -9.19)
+target position: (0.65, 0.03, 19.92)
+Displacement: (0.62, -0.74, -1.78)
+Horizontal Distance: 1.881201, Vertical Distance: -0.7437228
+Speed Squared: 100
+Discriminant: 11530.79
+Sqrt Discriminant: 107.3815
+Angle 1: 80.72648 degrees, Angle 2: -12.29758 degrees
+Chosen Angle: -12.29758 degrees
+Initial Velocity: (3.21, -2.13, -9.23)
+target position: (0.62, 0.03, 19.94)
+Displacement: (0.60, -0.74, -1.76)
+Horizontal Distance: 1.860921, Vertical Distance: -0.7434666
+Speed Squared: 100
+Discriminant: 11554.46
+Sqrt Discriminant: 107.4917
+Angle 1: 80.82953 degrees, Angle 2: -12.60701 degrees
+Chosen Angle: -12.60701 degrees
+Initial Velocity: (3.13, -2.18, -9.24)
+target position: (0.60, 0.03, 19.95)
+Displacement: (0.54, -0.74, -1.75)
+Horizontal Distance: 1.830496, Vertical Distance: -0.7431921
+Speed Squared: 100
+Discriminant: 11589.86
+Sqrt Discriminant: 107.6562
+Angle 1: 80.98401 degrees, Angle 2: -13.08145 degrees
+Chosen Angle: -13.08145 degrees
+Initial Velocity: (2.89, -2.26, -9.30)
+target position: (0.54, 0.03, 19.97)
+Displacement: (0.28, 0.00, 0.70)
+Horizontal Distance: 0.7518917, Vertical Distance: -0.004953027
+Speed Squared: 100
+Discriminant: 9834.66
+Sqrt Discriminant: 99.16985
+Angle 1: 86.11259 degrees, Angle 2: 3.50999 degrees
+Chosen Angle: 3.50999 degrees
+Initial Velocity: (3.74, 0.61, 9.25)
+target position: (0.28, 0.76, 22.41)
+Displacement: (0.20, 0.16, 0.71)
+Horizontal Distance: 0.7406709, Vertical Distance: 0.1564108
+Speed Squared: 100
+Discriminant: 9259.177
+Sqrt Discriminant: 96.22462
+Angle 1: 86.11314 degrees, Angle 2: 15.81108 degrees
+Chosen Angle: 15.81108 degrees
+Initial Velocity: (2.63, 2.72, 9.25)
+target position: (0.20, 0.93, 22.43)
+Displacement: (0.29, -0.77, -6.28)
+Horizontal Distance: 6.289891, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -47.53883
+Max Range: 5.555555, Direction: (0.05, 0.00, -1.00)
+target position: (0.29, 0.00, 15.43)
+Displacement: (0.19, -0.77, -8.97)
+Horizontal Distance: 8.967704, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -13285.2
+Max Range: 5.555555, Direction: (0.02, 0.00, -1.00)
+target position: (0.18, 0.00, 12.75)
+Displacement: (0.14, -0.77, -11.11)
+Horizontal Distance: 11.11288, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -27241.93
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.14, 0.00, 10.60)
+Displacement: (0.14, -0.77, -11.50)
+Horizontal Distance: 11.50566, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -30120.38
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.14, 0.00, 10.21)
+Displacement: (0.14, -0.77, -11.47)
+Horizontal Distance: 11.47173, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -29867.81
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.14, 0.00, 10.24)
+Displacement: (0.14, -0.77, -12.12)
+Horizontal Distance: 12.1194, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -34818.27
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.14, 0.00, 9.60)
+Displacement: (0.14, -0.77, -12.09)
+Horizontal Distance: 12.09124, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -34597.41
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.14, 0.00, 9.62)
+Displacement: (0.14, -0.77, -12.07)
+Horizontal Distance: 12.07023, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -34432.91
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.14, 0.00, 9.65)
+Displacement: (0.14, -0.77, -12.05)
+Horizontal Distance: 12.04924, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -34268.91
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.13, 0.00, 9.67)
+Displacement: (0.13, -0.77, -12.04)
+Horizontal Distance: 12.03842, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -34184.45
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.13, 0.00, 9.68)
+Displacement: (0.13, -0.77, -12.03)
+Horizontal Distance: 12.03358, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -34146.7
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.13, 0.00, 9.68)
+Displacement: (0.13, -0.77, -12.04)
+Horizontal Distance: 12.03613, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -34166.56
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.13, 0.00, 9.68)
+Displacement: (0.13, -0.77, -12.05)
+Horizontal Distance: 12.04606, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -34244.06
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.13, 0.00, 9.67)
+Displacement: (0.13, -0.77, -12.06)
+Horizontal Distance: 12.06298, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -34376.23
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.13, 0.00, 9.65)
+Displacement: (0.13, -0.77, -12.09)
+Horizontal Distance: 12.08979, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -34586.03
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.13, 0.00, 9.63)
+Displacement: (0.12, -0.77, -12.12)
+Horizontal Distance: 12.12411, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -34855.25
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.12, 0.00, 9.59)
+Displacement: (0.12, -0.77, -12.17)
+Horizontal Distance: 12.16782, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -35199.31
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.12, 0.00, 9.55)
+Displacement: (0.12, -0.77, -12.22)
+Horizontal Distance: 12.22265, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -35632.57
+Max Range: 5.555555, Direction: (0.01, 0.00, -1.00)
+target position: (0.12, 0.00, 9.49)
+Displacement: (0.22, -0.77, -12.31)
+Horizontal Distance: 12.30715, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -36304.14
+Max Range: 5.555555, Direction: (0.02, 0.00, -1.00)
+target position: (0.22, 0.00, 9.41)
+Displacement: (0.47, -0.77, -11.94)
+Horizontal Distance: 11.95099, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -33504.88
+Max Range: 5.555555, Direction: (0.04, 0.00, -1.00)
+target position: (0.46, 0.00, 9.77)
+Displacement: (0.62, -0.77, -11.38)
+Horizontal Distance: 11.39351, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -29288.31
+Max Range: 5.555555, Direction: (0.05, 0.00, -1.00)
+target position: (0.62, 0.00, 10.34)
+Displacement: (0.72, -0.77, -11.06)
+Horizontal Distance: 11.08243, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -27022.94
+Max Range: 5.555555, Direction: (0.07, 0.00, -1.00)
+target position: (0.72, 0.00, 10.66)
+Displacement: (0.73, -0.77, -11.15)
+Horizontal Distance: 11.1755, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -27694.15
+Max Range: 5.555555, Direction: (0.06, 0.00, -1.00)
+target position: (0.73, 0.00, 10.56)
+Displacement: (0.78, -0.77, -11.25)
+Horizontal Distance: 11.27254, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -28399.93
+Max Range: 5.555555, Direction: (0.07, 0.00, -1.00)
+target position: (0.78, 0.00, 10.47)
+Displacement: (0.78, -0.77, -11.35)
+Horizontal Distance: 11.38083, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -29194.76
+Max Range: 5.555555, Direction: (0.07, 0.00, -1.00)
+target position: (0.78, 0.00, 10.36)
+Displacement: (0.87, -0.77, -10.84)
+Horizontal Distance: 10.87929, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -25577.52
+Max Range: 5.555555, Direction: (0.08, 0.00, -1.00)
+target position: (0.87, 0.00, 10.87)
+Displacement: (1.00, -0.77, -10.99)
+Horizontal Distance: 11.03005, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -26647.69
+Max Range: 5.555555, Direction: (0.09, 0.00, -1.00)
+target position: (0.99, 0.00, 10.73)
+Displacement: (1.00, -0.77, -11.09)
+Horizontal Distance: 11.14002, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -27437.63
+Max Range: 5.555555, Direction: (0.09, 0.00, -1.00)
+target position: (1.00, 0.00, 10.62)
+Displacement: (1.01, -0.77, -11.20)
+Horizontal Distance: 11.24934, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -28230.65
+Max Range: 5.555555, Direction: (0.09, 0.00, -1.00)
+target position: (1.01, 0.00, 10.51)
+Displacement: (1.01, -0.77, -11.32)
+Horizontal Distance: 11.36837, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -29102.92
+Max Range: 5.555555, Direction: (0.09, 0.00, -1.00)
+target position: (1.01, 0.00, 10.39)
+Displacement: (1.02, -0.77, -11.43)
+Horizontal Distance: 11.47713, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -29907.95
+Max Range: 5.555555, Direction: (0.09, 0.00, -1.00)
+target position: (1.02, 0.00, 10.28)
+Displacement: (1.02, -0.77, -11.55)
+Horizontal Distance: 11.59319, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -30775.47
+Max Range: 5.555555, Direction: (0.09, 0.00, -1.00)
+target position: (1.02, 0.00, 10.17)
+Displacement: (1.03, -0.77, -11.66)
+Horizontal Distance: 11.70792, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -31641.62
+Max Range: 5.555555, Direction: (0.09, 0.00, -1.00)
+target position: (1.03, 0.00, 10.05)
+Displacement: (1.16, -0.77, -11.79)
+Horizontal Distance: 11.8475, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -32706.91
+Max Range: 5.555555, Direction: (0.10, 0.00, -1.00)
+target position: (1.16, 0.00, 9.92)
+Displacement: (1.36, -0.77, -11.48)
+Horizontal Distance: 11.55502, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -30489.2
+Max Range: 5.555555, Direction: (0.12, 0.00, -0.99)
+target position: (1.36, 0.00, 10.24)
+Displacement: (1.49, -0.77, -11.59)
+Horizontal Distance: 11.68978, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -31504.13
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (1.49, 0.00, 10.12)
+Displacement: (1.62, -0.77, -11.71)
+Horizontal Distance: 11.82127, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -32505.79
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.62, 0.00, 10.00)
+Displacement: (1.80, -0.77, -11.83)
+Horizontal Distance: 11.96568, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -33618.75
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (1.80, 0.00, 9.89)
+Displacement: (1.81, -0.77, -11.93)
+Horizontal Distance: 12.06707, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -34408.23
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (1.81, 0.00, 9.78)
+Displacement: (1.90, -0.77, -12.04)
+Horizontal Distance: 12.18586, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -35341.68
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (1.90, 0.00, 9.68)
+Displacement: (1.91, -0.77, -12.14)
+Horizontal Distance: 12.28949, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -36163.48
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (1.91, 0.00, 9.57)
+Displacement: (1.92, -0.77, -12.24)
+Horizontal Distance: 12.39207, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -36983.76
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (1.92, 0.00, 9.47)
+Displacement: (1.93, -0.77, -12.35)
+Horizontal Distance: 12.50298, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -37878.34
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (1.93, 0.00, 9.36)
+Displacement: (1.95, -0.77, -12.45)
+Horizontal Distance: 12.60494, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -38707.82
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (1.95, 0.00, 9.26)
+Displacement: (1.96, -0.77, -12.57)
+Horizontal Distance: 12.72624, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -39703.36
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (1.96, 0.00, 9.14)
+Displacement: (1.97, -0.77, -12.68)
+Horizontal Distance: 12.83344, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -40591.07
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (1.97, 0.00, 9.03)
+Displacement: (1.99, -0.77, -12.78)
+Horizontal Distance: 12.9325, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -41418.07
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (1.99, 0.00, 8.94)
+Displacement: (2.00, -0.77, -12.87)
+Horizontal Distance: 13.02581, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -42202.88
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.00, 0.00, 8.84)
+Displacement: (2.01, -0.77, -12.97)
+Horizontal Distance: 13.12018, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -43002.33
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.01, 0.00, 8.75)
+Displacement: (2.02, -0.77, -13.05)
+Horizontal Distance: 13.20996, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -43768.21
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.02, 0.00, 8.66)
+Displacement: (2.04, -0.77, -13.15)
+Horizontal Distance: 13.30404, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -44576.36
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.04, 0.00, 8.57)
+Displacement: (2.05, -0.77, -13.24)
+Horizontal Distance: 13.39648, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -45376.07
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.05, 0.00, 8.48)
+Displacement: (2.06, -0.77, -13.32)
+Horizontal Distance: 13.47833, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -46088.83
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.06, 0.00, 8.39)
+Displacement: (2.07, -0.77, -13.39)
+Horizontal Distance: 13.55247, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -46738.1
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.07, 0.00, 8.32)
+Displacement: (2.08, -0.77, -13.46)
+Horizontal Distance: 13.62158, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -47346.55
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.08, 0.00, 8.25)
+Displacement: (2.09, -0.77, -13.52)
+Horizontal Distance: 13.68142, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -47875.92
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.09, 0.00, 8.19)
+Displacement: (2.10, -0.77, -13.58)
+Horizontal Distance: 13.74219, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48415.91
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.10, 0.00, 8.13)
+Displacement: (2.11, -0.77, -13.63)
+Horizontal Distance: 13.79143, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -48855.15
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.11, 0.00, 8.09)
+Displacement: (2.12, -0.77, -13.67)
+Horizontal Distance: 13.82864, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -49188.19
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.12, 0.00, 8.05)
+Displacement: (2.13, -0.77, -13.70)
+Horizontal Distance: 13.85938, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -49463.95
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.13, 0.00, 8.02)
+Displacement: (2.13, -0.77, -13.72)
+Horizontal Distance: 13.88306, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -49676.75
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.13, 0.00, 8.00)
+Displacement: (2.14, -0.77, -13.73)
+Horizontal Distance: 13.89993, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -49828.58
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.14, 0.00, 7.98)
+Displacement: (2.15, -0.77, -13.74)
+Horizontal Distance: 13.91037, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -49922.67
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.14, 0.00, 7.97)
+Displacement: (2.15, -0.77, -13.74)
+Horizontal Distance: 13.91155, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -49933.34
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.15, 0.00, 7.97)
+Displacement: (2.15, -0.77, -13.74)
+Horizontal Distance: 13.90524, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -49876.42
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.15, 0.00, 7.98)
+Displacement: (2.16, -0.77, -13.73)
+Horizontal Distance: 13.8941, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -49776.09
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (2.16, 0.00, 7.99)
+Displacement: (2.16, -0.77, -13.71)
+Horizontal Distance: 13.87671, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -49619.64
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (2.16, 0.00, 8.01)
+Displacement: (2.16, -0.77, -13.68)
+Horizontal Distance: 13.85453, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -49420.36
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (2.16, 0.00, 8.03)
+Displacement: (2.16, -0.77, -13.66)
+Horizontal Distance: 13.82972, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -49197.81
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (2.16, 0.00, 8.06)
+Displacement: (2.16, -0.77, -13.63)
+Horizontal Distance: 13.80385, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48966.22
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (2.16, 0.00, 8.08)
+Displacement: (2.17, -0.77, -13.60)
+Horizontal Distance: 13.77381, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48697.8
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (2.16, 0.00, 8.11)
+Displacement: (2.40, -0.77, -16.42)
+Horizontal Distance: 16.593, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -76435.4
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.40, 0.00, 5.30)
+Displacement: (2.41, -0.77, -16.49)
+Horizontal Distance: 16.66506, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -77211.84
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.41, 0.00, 5.22)
+Displacement: (2.42, -0.77, -16.59)
+Horizontal Distance: 16.76281, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -78270.59
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.42, 0.00, 5.13)
+Displacement: (2.43, -0.77, -16.68)
+Horizontal Distance: 16.85428, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -79266.89
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.43, 0.00, 5.04)
+Displacement: (2.44, -0.77, -16.77)
+Horizontal Distance: 16.94224, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -80229.97
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.43, 0.00, 4.95)
+Displacement: (2.44, -0.77, -16.85)
+Horizontal Distance: 17.02913, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -81186.44
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.44, 0.00, 4.86)
+Displacement: (2.45, -0.77, -16.93)
+Horizontal Distance: 17.10848, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -82064.09
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.45, 0.00, 4.78)
+Displacement: (2.46, -0.77, -17.00)
+Horizontal Distance: 17.17912, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -82848.74
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.46, 0.00, 4.71)
+Displacement: (2.46, -0.77, -17.07)
+Horizontal Distance: 17.24463, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -83579.45
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.46, 0.00, 4.65)
+Displacement: (2.47, -0.77, -17.13)
+Horizontal Distance: 17.30159, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -84216.95
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.46, 0.00, 4.59)
+Displacement: (2.47, -0.77, -17.18)
+Horizontal Distance: 17.3551, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -84817.84
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.54)
+Displacement: (2.47, -0.77, -17.23)
+Horizontal Distance: 17.40133, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -85338.42
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.49)
+Displacement: (2.47, -0.77, -17.26)
+Horizontal Distance: 17.44083, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -85784.34
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.45)
+Displacement: (2.47, -0.77, -17.31)
+Horizontal Distance: 17.48985, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -86339.16
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.40)
+Displacement: (2.47, -0.77, -17.35)
+Horizontal Distance: 17.52532, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -86741.59
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.36)
+Displacement: (2.47, -0.77, -17.39)
+Horizontal Distance: 17.56395, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -87180.77
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.33)
+Displacement: (2.47, -0.77, -17.43)
+Horizontal Distance: 17.60203, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -87614.63
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.29)
+Displacement: (2.47, -0.77, -17.47)
+Horizontal Distance: 17.64134, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -88063.46
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.25)
+Displacement: (2.47, -0.77, -17.51)
+Horizontal Distance: 17.68299, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -88540.18
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.21)
+Displacement: (2.47, -0.77, -17.55)
+Horizontal Distance: 17.72722, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -89047.6
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.16)
+Displacement: (2.47, -0.77, -17.60)
+Horizontal Distance: 17.77107, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -89551.98
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.12)
+Displacement: (2.47, -0.77, -17.64)
+Horizontal Distance: 17.81154, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -90018.58
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.08)
+Displacement: (2.47, -0.77, -17.68)
+Horizontal Distance: 17.85142, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -90479.34
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 4.03)
+Displacement: (2.47, -0.77, -17.72)
+Horizontal Distance: 17.89177, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -90946.59
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 3.99)
+Displacement: (2.47, -0.77, -17.75)
+Horizontal Distance: 17.92527, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -91335.38
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.47, 0.00, 3.96)
+Displacement: (2.46, -0.77, -17.79)
+Horizontal Distance: 17.95527, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -91684.19
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.46, 0.00, 3.93)
+Displacement: (2.46, -0.77, -17.81)
+Horizontal Distance: 17.97844, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -91953.91
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.46, 0.00, 3.91)
+Displacement: (2.46, -0.77, -17.83)
+Horizontal Distance: 17.99433, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -92139.04
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.46, 0.00, 3.89)
+Displacement: (2.45, -0.77, -17.83)
+Horizontal Distance: 18.00023, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -92207.88
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.45, 0.00, 3.88)
+Displacement: (2.45, -0.77, -17.83)
+Horizontal Distance: 17.99832, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -92185.64
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.45, 0.00, 3.88)
+Displacement: (2.44, -0.77, -17.82)
+Horizontal Distance: 17.98583, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -92040
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.44, 0.00, 3.90)
+Displacement: (2.43, -0.77, -17.79)
+Horizontal Distance: 17.95923, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -91730.2
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.43, 0.00, 3.92)
+Displacement: (2.42, -0.77, -17.76)
+Horizontal Distance: 17.92378, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -91318.09
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.42, 0.00, 3.96)
+Displacement: (2.41, -0.77, -17.71)
+Horizontal Distance: 17.87242, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -90722.34
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.41, 0.00, 4.01)
+Displacement: (2.40, -0.77, -17.65)
+Horizontal Distance: 17.81172, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -90020.63
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.40, 0.00, 4.07)
+Displacement: (2.39, -0.77, -17.58)
+Horizontal Distance: 17.74084, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -89204.19
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.39, 0.00, 4.14)
+Displacement: (2.37, -0.77, -17.50)
+Horizontal Distance: 17.66031, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -88280.45
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.37, 0.00, 4.21)
+Displacement: (2.36, -0.77, -17.41)
+Horizontal Distance: 17.5692, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -87240.45
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.36, 0.00, 4.30)
+Displacement: (2.34, -0.77, -17.31)
+Horizontal Distance: 17.46919, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -86105.16
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.34, 0.00, 4.40)
+Displacement: (2.33, -0.77, -17.21)
+Horizontal Distance: 17.36219, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -84897.56
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.33, 0.00, 4.51)
+Displacement: (2.31, -0.77, -17.09)
+Horizontal Distance: 17.24297, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -83560.94
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.31, 0.00, 4.63)
+Displacement: (2.30, -0.77, -16.97)
+Horizontal Distance: 17.12382, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -82234.22
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.29, 0.00, 4.75)
+Displacement: (2.28, -0.77, -16.85)
+Horizontal Distance: 16.99859, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -80849.73
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.28, 0.00, 4.87)
+Displacement: (2.26, -0.77, -16.72)
+Horizontal Distance: 16.87085, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -79447.9
+Max Range: 5.555555, Direction: (0.13, 0.00, -0.99)
+target position: (2.26, 0.00, 5.00)
+Displacement: (2.17, -0.77, -15.89)
+Horizontal Distance: 16.03403, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -70526.4
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.17, 0.00, 5.83)
+Displacement: (2.16, -0.77, -15.76)
+Horizontal Distance: 15.90856, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -69227.85
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.16, 0.00, 5.95)
+Displacement: (2.14, -0.77, -15.65)
+Horizontal Distance: 15.79094, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -68019.86
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.14, 0.00, 6.07)
+Displacement: (2.13, -0.77, -15.53)
+Horizontal Distance: 15.67128, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -66800.09
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.12, 0.00, 6.19)
+Displacement: (2.11, -0.77, -15.41)
+Horizontal Distance: 15.5536, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -65609.46
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.11, 0.00, 6.30)
+Displacement: (2.09, -0.77, -15.28)
+Horizontal Distance: 15.42017, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -64270.48
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.09, 0.00, 6.44)
+Displacement: (2.08, -0.77, -15.16)
+Horizontal Distance: 15.30026, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -63076.96
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.08, 0.00, 6.56)
+Displacement: (2.03, -0.77, -14.15)
+Horizontal Distance: 14.29973, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -53481.5
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.03, 0.00, 7.56)
+Displacement: (2.02, -0.77, -14.06)
+Horizontal Distance: 14.20881, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -52641.64
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.02, 0.00, 7.65)
+Displacement: (2.01, -0.77, -13.99)
+Horizontal Distance: 14.13351, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -51950.2
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.01, 0.00, 7.72)
+Displacement: (2.00, -0.77, -13.92)
+Horizontal Distance: 14.0629, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -51305.16
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.00, 0.00, 7.79)
+Displacement: (1.99, -0.77, -13.86)
+Horizontal Distance: 13.99818, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -50716.66
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.99, 0.00, 7.86)
+Displacement: (1.98, -0.77, -13.80)
+Horizontal Distance: 13.9405, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -50194.58
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.98, 0.00, 7.92)
+Displacement: (1.98, -0.77, -13.74)
+Horizontal Distance: 13.88111, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -49659.23
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.98, 0.00, 7.98)
+Displacement: (1.97, -0.77, -13.69)
+Horizontal Distance: 13.83057, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -49205.41
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.97, 0.00, 8.03)
+Displacement: (1.97, -0.77, -13.65)
+Horizontal Distance: 13.78645, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48810.63
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.97, 0.00, 8.07)
+Displacement: (1.96, -0.77, -13.61)
+Horizontal Distance: 13.74979, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48483.62
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.96, 0.00, 8.11)
+Displacement: (1.96, -0.77, -13.58)
+Horizontal Distance: 13.72232, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -48239.05
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.96, 0.00, 8.13)
+Displacement: (1.96, -0.77, -13.56)
+Horizontal Distance: 13.70304, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -48067.78
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.96, 0.00, 8.15)
+Displacement: (1.96, -0.77, -13.55)
+Horizontal Distance: 13.69285, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -47977.34
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.96, 0.00, 8.16)
+Displacement: (1.96, -0.77, -13.55)
+Horizontal Distance: 13.69178, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -47967.86
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.96, 0.00, 8.16)
+Displacement: (1.96, -0.77, -13.56)
+Horizontal Distance: 13.70005, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48041.21
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.96, 0.00, 8.16)
+Displacement: (1.96, -0.77, -13.58)
+Horizontal Distance: 13.72109, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48228.11
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.96, 0.00, 8.13)
+Displacement: (1.97, -0.77, -13.61)
+Horizontal Distance: 13.74995, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48484.98
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.97, 0.00, 8.11)
+Displacement: (1.97, -0.77, -13.65)
+Horizontal Distance: 13.78738, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -48819.02
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.97, 0.00, 8.07)
+Displacement: (1.98, -0.77, -13.69)
+Horizontal Distance: 13.83303, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -49227.52
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.98, 0.00, 8.02)
+Displacement: (1.99, -0.77, -13.75)
+Horizontal Distance: 13.88771, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -49718.6
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.98, 0.00, 7.97)
+Displacement: (1.99, -0.77, -13.80)
+Horizontal Distance: 13.94804, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -50262.71
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (1.99, 0.00, 7.91)
+Displacement: (2.00, -0.77, -13.87)
+Horizontal Distance: 14.01613, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -50879.59
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.00, 0.00, 7.84)
+Displacement: (2.01, -0.77, -13.95)
+Horizontal Distance: 14.0898, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -51550.5
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.01, 0.00, 7.77)
+Displacement: (2.02, -0.77, -14.02)
+Horizontal Distance: 14.16938, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -52279.08
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.02, 0.00, 7.69)
+Displacement: (2.03, -0.77, -14.11)
+Horizontal Distance: 14.25425, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -53060.68
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.03, 0.00, 7.61)
+Displacement: (2.05, -0.77, -14.20)
+Horizontal Distance: 14.34354, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -53888.04
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.05, 0.00, 7.52)
+Displacement: (2.06, -0.77, -14.29)
+Horizontal Distance: 14.43379, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -54729.49
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.06, 0.00, 7.43)
+Displacement: (2.07, -0.77, -14.38)
+Horizontal Distance: 14.52685, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -55602.72
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.07, 0.00, 7.34)
+Displacement: (2.02, -0.77, -13.89)
+Horizontal Distance: 14.03635, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -51063.37
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.02, 0.00, 7.82)
+Displacement: (2.04, -0.77, -13.98)
+Horizontal Distance: 14.12453, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -51867.94
+Max Range: 5.555555, Direction: (0.14, 0.00, -0.99)
+target position: (2.04, 0.00, 7.74)
+Displacement: (1.96, -0.77, -13.23)
+Horizontal Distance: 13.37789, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -45214.86
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (1.96, 0.00, 8.48)
+Displacement: (2.00, -0.77, -12.80)
+Horizontal Distance: 12.95388, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -41597.38
+Max Range: 5.555555, Direction: (0.15, 0.00, -0.99)
+target position: (2.00, 0.00, 8.92)
+Displacement: (1.93, -0.77, -12.15)
+Horizontal Distance: 12.29741, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -36226.55
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (1.93, 0.00, 9.57)
+Displacement: (1.89, -0.77, -11.74)
+Horizontal Distance: 11.89457, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -33068.99
+Max Range: 5.555555, Direction: (0.16, 0.00, -0.99)
+target position: (1.89, 0.00, 9.97)
+Displacement: (1.83, -0.77, -10.74)
+Horizontal Distance: 10.89697, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -25702.25
+Max Range: 5.555555, Direction: (0.17, 0.00, -0.99)
+target position: (1.83, 0.00, 10.97)
+Displacement: (1.79, -0.77, -10.39)
+Horizontal Distance: 10.5459, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -23263.18
+Max Range: 5.555555, Direction: (0.17, 0.00, -0.99)
+target position: (1.79, 0.00, 11.32)
+Displacement: (1.80, -0.77, -10.42)
+Horizontal Distance: 10.57684, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -23474.97
+Max Range: 5.555555, Direction: (0.17, 0.00, -0.99)
+target position: (1.80, 0.00, 11.29)
+Displacement: (1.81, -0.77, -9.90)
+Horizontal Distance: 10.06336, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -20041.11
+Max Range: 5.555555, Direction: (0.18, 0.00, -0.98)
+target position: (1.81, 0.00, 11.81)
+Displacement: (1.77, -0.77, -9.57)
+Horizontal Distance: 9.732236, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -17917.33
+Max Range: 5.555555, Direction: (0.18, 0.00, -0.98)
+target position: (1.77, 0.00, 12.14)
+Displacement: (1.77, -0.77, -9.58)
+Horizontal Distance: 9.744263, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -17993.23
+Max Range: 5.555555, Direction: (0.18, 0.00, -0.98)
+target position: (1.77, 0.00, 12.13)
+Displacement: (1.72, -0.77, -9.09)
+Horizontal Distance: 9.253114, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14970.13
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.62)
+Displacement: (1.72, -0.77, -9.09)
+Horizontal Distance: 9.254335, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14977.46
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.62)
+Displacement: (1.72, -0.77, -9.09)
+Horizontal Distance: 9.25099, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14957.4
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.63)
+Displacement: (1.72, -0.77, -9.08)
+Horizontal Distance: 9.24433, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -14917.49
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.63)
+Displacement: (1.73, -0.77, -9.07)
+Horizontal Distance: 9.234742, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14860.08
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.64)
+Displacement: (1.73, -0.77, -9.06)
+Horizontal Distance: 9.22351, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14792.91
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.73, 0.00, 12.65)
+Displacement: (1.73, -0.77, -9.05)
+Horizontal Distance: 9.211136, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -14719
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.67)
+Displacement: (1.73, -0.77, -9.03)
+Horizontal Distance: 9.195856, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14627.88
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.68)
+Displacement: (1.72, -0.77, -9.01)
+Horizontal Distance: 9.1765, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14512.66
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.70)
+Displacement: (1.72, -0.77, -8.99)
+Horizontal Distance: 9.157323, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14398.74
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.72)
+Displacement: (1.72, -0.77, -8.97)
+Horizontal Distance: 9.135923, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -14271.91
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.74)
+Displacement: (1.72, -0.77, -8.95)
+Horizontal Distance: 9.111898, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -14129.86
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.77)
+Displacement: (1.72, -0.77, -8.92)
+Horizontal Distance: 9.086013, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -13977.24
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.72, 0.00, 12.79)
+Displacement: (1.71, -0.77, -8.90)
+Horizontal Distance: 9.059205, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13819.63
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.71, 0.00, 12.82)
+Displacement: (1.71, -0.77, -8.87)
+Horizontal Distance: 9.030094, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13649.02
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.71, 0.00, 12.85)
+Displacement: (1.71, -0.77, -8.84)
+Horizontal Distance: 8.998949, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13467.08
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.71, 0.00, 12.88)
+Displacement: (1.70, -0.77, -8.80)
+Horizontal Distance: 8.967476, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13283.88
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.70, 0.00, 12.91)
+Displacement: (1.70, -0.77, -8.77)
+Horizontal Distance: 8.937961, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13112.65
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.70, 0.00, 12.94)
+Displacement: (1.70, -0.77, -8.74)
+Horizontal Distance: 8.907454, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12936.26
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.70, 0.00, 12.97)
+Displacement: (1.69, -0.77, -8.71)
+Horizontal Distance: 8.87718, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12761.82
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.69, 0.00, 13.00)
+Displacement: (1.69, -0.77, -8.69)
+Horizontal Distance: 8.851631, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12615.06
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.69, 0.00, 13.03)
+Displacement: (1.69, -0.77, -8.67)
+Horizontal Distance: 8.829993, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12491.1
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.69, 0.00, 13.05)
+Displacement: (1.69, -0.77, -8.65)
+Horizontal Distance: 8.810607, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12380.29
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.69, 0.00, 13.07)
+Displacement: (1.68, -0.77, -8.63)
+Horizontal Distance: 8.792999, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12279.87
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.08)
+Displacement: (1.68, -0.77, -8.62)
+Horizontal Distance: 8.780151, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12206.72
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.10)
+Displacement: (1.68, -0.77, -8.61)
+Horizontal Distance: 8.770197, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12150.11
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.11)
+Displacement: (1.68, -0.77, -8.60)
+Horizontal Distance: 8.765356, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12122.61
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.11)
+Displacement: (1.68, -0.77, -8.60)
+Horizontal Distance: 8.765228, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12121.88
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.11)
+Displacement: (1.68, -0.77, -8.61)
+Horizontal Distance: 8.769166, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12144.25
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.11)
+Displacement: (1.68, -0.77, -8.61)
+Horizontal Distance: 8.776714, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12187.17
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.10)
+Displacement: (1.68, -0.77, -8.63)
+Horizontal Distance: 8.78721, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12246.9
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.09)
+Displacement: (1.68, -0.77, -8.64)
+Horizontal Distance: 8.799964, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12319.57
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.08)
+Displacement: (1.68, -0.77, -8.65)
+Horizontal Distance: 8.815564, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12408.61
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.06)
+Displacement: (1.68, -0.77, -8.67)
+Horizontal Distance: 8.831632, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12500.47
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.04)
+Displacement: (1.68, -0.77, -8.69)
+Horizontal Distance: 8.849097, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12600.53
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.03)
+Displacement: (1.68, -0.77, -8.71)
+Horizontal Distance: 8.866834, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12702.33
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 13.01)
+Displacement: (1.68, -0.77, -8.72)
+Horizontal Distance: 8.883266, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12796.84
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 12.99)
+Displacement: (1.68, -0.77, -8.74)
+Horizontal Distance: 8.899557, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12890.7
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 12.98)
+Displacement: (1.68, -0.77, -8.75)
+Horizontal Distance: 8.91328, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12969.9
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 12.96)
+Displacement: (1.68, -0.77, -8.77)
+Horizontal Distance: 8.924747, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13036.18
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 12.95)
+Displacement: (1.68, -0.77, -8.77)
+Horizontal Distance: 8.933887, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -13089.06
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 12.94)
+Displacement: (1.68, -0.77, -8.78)
+Horizontal Distance: 8.939841, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13123.54
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.68, 0.00, 12.93)
+Displacement: (1.67, -0.77, -8.78)
+Horizontal Distance: 8.942453, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13138.67
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.67, 0.00, 12.93)
+Displacement: (1.67, -0.77, -8.78)
+Horizontal Distance: 8.941468, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -13132.97
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.67, 0.00, 12.93)
+Displacement: (1.67, -0.77, -8.78)
+Horizontal Distance: 8.933238, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13085.3
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.67, 0.00, 12.94)
+Displacement: (1.66, -0.77, -8.76)
+Horizontal Distance: 8.918722, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -13001.34
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.66, 0.00, 12.95)
+Displacement: (1.65, -0.77, -8.74)
+Horizontal Distance: 8.896475, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12872.93
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.65, 0.00, 12.97)
+Displacement: (1.65, -0.77, -8.71)
+Horizontal Distance: 8.863365, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -12682.41
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.64, 0.00, 13.01)
+Displacement: (1.64, -0.77, -8.69)
+Horizontal Distance: 8.844698, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12575.31
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.64, 0.00, 13.02)
+Displacement: (1.64, -0.77, -8.67)
+Horizontal Distance: 8.822872, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12450.37
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.64, 0.00, 13.04)
+Displacement: (1.63, -0.77, -8.65)
+Horizontal Distance: 8.799858, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12318.96
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.63, 0.00, 13.07)
+Displacement: (1.63, -0.77, -8.62)
+Horizontal Distance: 8.776621, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12186.63
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.63, 0.00, 13.09)
+Displacement: (1.62, -0.77, -8.60)
+Horizontal Distance: 8.750499, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -12038.29
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.62, 0.00, 13.12)
+Displacement: (1.62, -0.77, -8.57)
+Horizontal Distance: 8.72392, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -11887.81
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.62, 0.00, 13.14)
+Displacement: (1.61, -0.77, -8.54)
+Horizontal Distance: 8.691076, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -11702.49
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.61, 0.00, 13.17)
+Displacement: (1.61, -0.77, -8.50)
+Horizontal Distance: 8.647411, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -11457.2
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.60, 0.00, 13.22)
+Displacement: (1.60, -0.77, -8.46)
+Horizontal Distance: 8.606675, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -11229.47
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.60, 0.00, 13.26)
+Displacement: (1.59, -0.77, -8.42)
+Horizontal Distance: 8.565302, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -10999.28
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.59, 0.00, 13.30)
+Displacement: (1.59, -0.77, -8.37)
+Horizontal Distance: 8.523718, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -10769.03
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.59, 0.00, 13.34)
+Displacement: (1.58, -0.77, -8.33)
+Horizontal Distance: 8.481187, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -10534.71
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.58, 0.00, 13.38)
+Displacement: (1.58, -0.77, -8.28)
+Horizontal Distance: 8.43157, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -10262.82
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.58, 0.00, 13.43)
+Displacement: (1.57, -0.77, -8.23)
+Horizontal Distance: 8.382779, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -9997.013
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.57, 0.00, 13.48)
+Displacement: (1.56, -0.77, -8.18)
+Horizontal Distance: 8.333004, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -9727.436
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.56, 0.00, 13.53)
+Displacement: (1.56, -0.77, -8.13)
+Horizontal Distance: 8.281201, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -9448.582
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.56, 0.00, 13.58)
+Displacement: (1.55, -0.77, -8.08)
+Horizontal Distance: 8.228159, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -9164.856
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.55, 0.00, 13.63)
+Displacement: (1.55, -0.77, -8.02)
+Horizontal Distance: 8.170506, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -8858.534
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.54, 0.00, 13.69)
+Displacement: (1.54, -0.77, -7.96)
+Horizontal Distance: 8.111536, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -8547.446
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.54, 0.00, 13.75)
+Displacement: (1.53, -0.77, -7.91)
+Horizontal Distance: 8.05663, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -8259.823
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.53, 0.00, 13.81)
+Displacement: (1.53, -0.77, -7.85)
+Horizontal Distance: 7.999215, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -7961.145
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.53, 0.00, 13.86)
+Displacement: (1.52, -0.77, -7.80)
+Horizontal Distance: 7.946379, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -7688.175
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.52, 0.00, 13.92)
+Displacement: (1.52, -0.77, -7.75)
+Horizontal Distance: 7.893664, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -7417.633
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.52, 0.00, 13.97)
+Displacement: (1.51, -0.77, -7.69)
+Horizontal Distance: 7.841899, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -7153.717
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.51, 0.00, 14.02)
+Displacement: (1.51, -0.77, -7.64)
+Horizontal Distance: 7.785898, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -6870.16
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.51, 0.00, 14.08)
+Displacement: (1.50, -0.77, -7.59)
+Horizontal Distance: 7.740347, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -6641.016
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.50, 0.00, 14.12)
+Displacement: (1.50, -0.77, -7.55)
+Horizontal Distance: 7.695889, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -6418.664
+Max Range: 5.555555, Direction: (0.19, 0.00, -0.98)
+target position: (1.50, 0.00, 14.17)
+Displacement: (1.50, -0.77, -7.51)
+Horizontal Distance: 7.654635, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -6213.489
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.50, 0.00, 14.21)
+Displacement: (1.49, -0.77, -7.47)
+Horizontal Distance: 7.616259, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -6023.61
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.25)
+Displacement: (1.49, -0.77, -7.43)
+Horizontal Distance: 7.581224, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -5851.102
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.28)
+Displacement: (1.49, -0.77, -7.40)
+Horizontal Distance: 7.549269, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -5694.449
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.31)
+Displacement: (1.49, -0.77, -7.37)
+Horizontal Distance: 7.519178, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -5547.538
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.34)
+Displacement: (1.49, -0.77, -7.34)
+Horizontal Distance: 7.492297, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -5416.797
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.37)
+Displacement: (1.49, -0.77, -7.32)
+Horizontal Distance: 7.468788, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -5302.837
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.40)
+Displacement: (1.49, -0.77, -7.30)
+Horizontal Distance: 7.447135, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -5198.197
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.42)
+Displacement: (1.49, -0.77, -7.28)
+Horizontal Distance: 7.427999, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -5105.966
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.44)
+Displacement: (1.49, -0.77, -7.26)
+Horizontal Distance: 7.410335, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -5021.047
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.46)
+Displacement: (1.49, -0.77, -7.24)
+Horizontal Distance: 7.392663, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -4936.291
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.47)
+Displacement: (1.49, -0.77, -7.22)
+Horizontal Distance: 7.374988, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -4851.716
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.49)
+Displacement: (1.49, -0.77, -7.20)
+Horizontal Distance: 7.356566, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -4763.791
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.51)
+Displacement: (1.49, -0.77, -7.18)
+Horizontal Distance: 7.337083, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -4671.036
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.53)
+Displacement: (1.49, -0.77, -7.16)
+Horizontal Distance: 7.31637, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -4572.697
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.55)
+Displacement: (1.49, -0.77, -7.14)
+Horizontal Distance: 7.291453, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -4454.766
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.58)
+Displacement: (1.49, -0.77, -7.11)
+Horizontal Distance: 7.267039, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -4339.606
+Max Range: 5.555555, Direction: (0.20, 0.00, -0.98)
+target position: (1.49, 0.00, 14.60)
+Displacement: (1.49, -0.77, -7.09)
+Horizontal Distance: 7.240931, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -4216.884
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.49, 0.00, 14.63)
+Displacement: (1.49, -0.77, -7.06)
+Horizontal Distance: 7.211762, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -4080.295
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.49, 0.00, 14.66)
+Displacement: (1.49, -0.77, -7.03)
+Horizontal Distance: 7.182387, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -3943.298
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.49, 0.00, 14.69)
+Displacement: (1.49, -0.77, -7.00)
+Horizontal Distance: 7.153918, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -3811.062
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.49, 0.00, 14.72)
+Displacement: (1.49, -0.77, -6.97)
+Horizontal Distance: 7.125051, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -3677.512
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.49, 0.00, 14.75)
+Displacement: (1.49, -0.77, -6.94)
+Horizontal Distance: 7.095689, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -3542.225
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.48, 0.00, 14.78)
+Displacement: (1.48, -0.77, -6.91)
+Horizontal Distance: 7.067186, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -3411.434
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.48, 0.00, 14.81)
+Displacement: (1.48, -0.77, -6.88)
+Horizontal Distance: 7.039423, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -3284.542
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.48, 0.00, 14.83)
+Displacement: (1.48, -0.77, -6.86)
+Horizontal Distance: 7.016105, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -3178.351
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.48, 0.00, 14.86)
+Displacement: (1.48, -0.77, -6.83)
+Horizontal Distance: 6.992378, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -3070.658
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.48, 0.00, 14.88)
+Displacement: (1.48, -0.77, -6.81)
+Horizontal Distance: 6.970853, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -2973.278
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.48, 0.00, 14.90)
+Displacement: (1.49, -0.77, -6.79)
+Horizontal Distance: 6.951318, Vertical Distance: -0.769663
+Speed Squared: 100
+Discriminant: -2885.161
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.48, 0.00, 14.92)
+Displacement: (1.49, -0.77, -6.77)
+Horizontal Distance: 6.934376, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -2808.938
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.49, 0.00, 14.94)
+Displacement: (1.49, -0.77, -6.76)
+Horizontal Distance: 6.921509, Vertical Distance: -0.7696629
+Speed Squared: 100
+Discriminant: -2751.176
+Max Range: 5.555555, Direction: (0.21, 0.00, -0.98)
+target position: (1.49, 0.00, 14.95)
+Displacement: (1.49, -0.77, -6.75)
+Horizontal Distance: 6.90987, Vertical Distance: -0.7696627
+Speed Squared: 100
+Discriminant: -2699.015
+Max Range: 5.555555, Direction: (0.22, 0.00, -0.98)
+target position: (1.49, 0.00, 14.97)
